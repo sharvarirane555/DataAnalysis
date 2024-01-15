@@ -7,11 +7,7 @@ date: "2023-11-27"
 ## Quantitative Data Analysis Project Readme
 
 ## Group Members:
-Sharvari Rane
-Aishwarya Bhure
-Karishma Savant
-Lida Ghasemi
-Aksheya Unnikrishnan
+Sharvari Rane, Aishwarya Bhure, Karishma Savant, Lida Ghasemi, Aksheya Unnikrishnan
 
 ## Topic: Effect of Financial News on Sentiment of Stocks
 
